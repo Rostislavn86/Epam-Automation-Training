@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3fa0a6f-ca08-4143-8ae8-f6c2d2a1a251" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/JavaClassesMainTask/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaClassesMainTask/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaClassesMainTask/out/production/JavaClassesMainTask/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaClassesMainTask/out/production/JavaClassesMainTask/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaClassesMainTask/out/production/JavaClassesMainTask/META-INF/JavaClassesMainTask.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaClassesMainTask/out/production/JavaClassesMainTask/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaClassesMainTask/out/production/JavaClassesMainTask/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaClassesMainTask/out/production/JavaClassesMainTask/Methods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaClassesMainTask/out/production/JavaClassesMainTask/ObjMassOfBooksAndMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaClassesMainTask/out/production/JavaClassesMainTask/ObjMassOfBooksAndMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaClassesMainTask/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaClassesMainTask/src/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaClassesMainTask/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaClassesMainTask/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaClassesMainTask/src/ObjMassOfBooksAndMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaClassesMainTask/src/ObjMassOfBooksAndMethods.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/JavaClassesMainTask" />
+  </component>
+  <component name="ProjectId" id="1XaB8Cu50quMQy8y61ThuKA065J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3fa0a6f-ca08-4143-8ae8-f6c2d2a1a251" name="Default Changelist" comment="" />
+      <created>1581274163056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581274163056</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
