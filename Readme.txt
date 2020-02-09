@@ -7,7 +7,7 @@ Classes :
 https://learn.by/courses/course-v1:EPAM+JC+ext1/courseware/ce87126be08849fbaad518740daf7dff/b6ef66e7fcc2400e98dd2028ea17ab09/1
 
 JavaFundamentals :
-«адание было изминено, в данном репозитории хранитьс€ "старое" задание (создать пиццерию)
+The task was changed, the "old" task is stored in this repository (was create a pizzeria)
 
 CleanCode :
 https://learn.by/courses/course-v1:EPAM+CC+ext1/courseware/a938fbaede854d23b601dd81b9d1a22b/8e2764b493be4ccc953a65461fe40615/1
