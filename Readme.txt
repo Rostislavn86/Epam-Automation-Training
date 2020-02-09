@@ -1,4 +1,4 @@
-Все задачи уровня 1 находяться в своих папках, условия задач :
+All level 1 tasks are in their folders, task conditions:
 
 Clean code :
 https://learn.by/courses/course-v1:EPAM+CC+ext1/courseware/a938fbaede854d23b601dd81b9d1a22b/8e2764b493be4ccc953a65461fe40615/1
